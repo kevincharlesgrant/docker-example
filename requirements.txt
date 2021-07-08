@@ -1,0 +1,8 @@
+flask
+requests
+gcloud
+tensorflow
+keras
+numpy==1.19.2
+requests
+six==1.15.0
